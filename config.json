@@ -1,0 +1,10 @@
+{
+  "debug": false,
+  "token": "1000000000:AAAA_A_bbbbbbbbbbbbbbb-0",
+  "channel": "my_channel_for_notification",
+  "timeout": "1m",
+  "url": [
+    "https://www.google.com",
+    "https://core.telegram.org/bots"
+  ]
+}
